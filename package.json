@@ -19,7 +19,7 @@
     "homepage": "https://github.com/locomote-sh/filesets#readme",
     "dependencies": {
         "cheerio": "^0.22.0",
-        "locomote.sh/fileglob": "git+https://github.com/locomote-sh/fileglob.git",
-        "locomote.sh/utils": "git+https://github.com/locomote-sh/utils.git"
+        "@locomote.sh/fileglob": "git+https://github.com/locomote-sh/fileglob.git",
+        "@locomote.sh/utils": "git+https://github.com/locomote-sh/utils.git"
     }
 }
