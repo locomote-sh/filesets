@@ -1,6 +1,6 @@
 {
     "name": "@locomote.sh/filesets",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Fileset definitions and handling.",
     "main": "lib/index.js",
     "scripts": {
